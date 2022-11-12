@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Crystal and I'm excited to share my work with you!
+- 👧🏾 Hi, I’m Crystal and I'm excited to share my work with you!
 - 👀 I’m interested in a career in data analytics and data science and I'm in transition from being a nurse for 15 years.
 - 🌱 I’m currently learning the process of data analysis with the application of SQL, Excel, Tableau, and R.
 - 💞️ I love good food, traveling, and time spent with family.
